@@ -1,5 +1,5 @@
 
-# John the Ripper
+# John the Ripper + Hydra
 
 ## Introduction
 John the Ripper is a fast password cracker, currently available for many flavors of Unix, Windows, DOS, BeOS, and OpenVMS. Its primary purpose is to detect weak Unix passwords. Besides several crypt(3) password hash types most commonly found on various Unix systems, supported out of the box are Kerberos AFS and Windows LM hashes, plus many more with contributed patches.
