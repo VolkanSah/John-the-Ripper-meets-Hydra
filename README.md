@@ -96,6 +96,7 @@ John the Ripper can be effectively used in conjunction with Hydra, a parallelize
 
 ## Credits
 John the Ripper was created by Solar Designer. Contributions have been made by the open-source community.
+  
 
 ## Additional Notes
 John the Ripper is a powerful tool that should be used responsibly. For more detailed information, refer to the official [documentation](https://www.openwall.com/john/).
